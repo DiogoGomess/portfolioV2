@@ -964,7 +964,7 @@ html {
   /* CONTACTS */
 
   .contacts-section {
-    padding: 150px 0px 100px 0px;
+    padding: 200px 0px 100px 0px !important;
     background-color: #f6f7fd;
   }
 
