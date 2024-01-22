@@ -959,12 +959,14 @@ html {
 
 
 
-
+  .projects-section {
+    margin-bottom: 25vh !important;
+  }
 
   /* CONTACTS */
 
   .contacts-section {
-    padding: 200px 0px 100px 0px !important;
+    /* padding: 200px 0px 100px 0px !important; */
     background-color: #f6f7fd;
   }
 
