@@ -963,6 +963,10 @@ html {
 
   /* CONTACTS */
 
+  .contacts-section {
+    padding: 150px 0px 100px 0px;
+    background-color: #f6f7fd;
+  }
 
   .contacts-section h4 {
     font-size: 1.1rem;
