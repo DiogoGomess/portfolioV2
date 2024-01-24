@@ -787,6 +787,12 @@ html {
 /* MOBILE */
 
 @media only screen and (max-width: 590px) {
+  .backVideo {
+    width: 100% !important;
+    height: auto !important;
+    object-fit: cover !important;
+  }
+
   .aboutContainer .row .col-lg-6 {
     display: flex;
     align-items: center;
